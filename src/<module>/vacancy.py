@@ -1,3 +1,5 @@
+
+
 class Vacancy:
     """Класс для работы с вакансиями."""
     def __init__(self, title: str, url: str, salary: str, description: str):
